@@ -4,7 +4,7 @@ Fall 2025 at the University of Victoria
 M and Th, 10 - 11:20am | 1.5 units | prereq: AWR   
 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 Office hours: Th, 12-1pm, in CLE D331    
-Teaching assistant (marking): Maya Linsley (she | any)
+Teaching assistant (marking): Maya Wei Yan Linsley (she | any)
 
 View this document in [PDF](mdia200Fall2025Syllabus.pdf) (coming soon). 
 
@@ -35,7 +35,7 @@ The video supports the UVic community to engage more meaningfully with the terri
 
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people's relation to culture." For more information, see ["MDIA200 - Media in the 21st Century"](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/view/6303da9b069ada560150d9ba) in UVic's academic calendar. 
 
-The course counts toward UVic's new [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs) certificate, which requires 10.5 units of coursework. 
+The course counts toward UVic's new [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs) certificate, which requires only 10.5 units of coursework. 
 
 # Goals
 
@@ -57,7 +57,7 @@ I spend 13.28% of the day looking for my glasses, and I enjoy writing about game
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. My office hours are Thursday, 12-1pm, in CLE D331. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays.
 
-Hi! I'm Maya, your TA (marking) for the term (she/any). I'm an English MA student and grad from UVic's Honours English BA.
+Hi! I'm Maya (she/any), your TA (marking) for the term. I'm an English MA student and grad from UVic's Honours English BA.
  
 There was a time when I, too, spent 13.28% of the day looking for my glasses, but now I can't look for anything if they're not on my face. I partly attribute my rapidly deteriorating eyesight to the amount of time I've spent reading fanfiction on my phone. Alas, it will never get better, as my area of research is fan studies.
  
@@ -71,7 +71,7 @@ You do *not* need to purchase a textbook or any primary sources for this course,
 
 *Slide Decks*: I will create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
-*Primary Sources*: My slide decks will often contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of sources we'll likely study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
+*Source Materials*: My slide decks will often contain source materials or links to them. We'll discuss these sources in class to apply what you're learning from the weekly handouts. Examples of sources we'll likely study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; and the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett.
 
 *Content Warnings*: I'll include content warnings for materials before I share or screen them in class. 
 
@@ -95,7 +95,7 @@ I am asking you to complete five assignments this term.
 2. **[Worksheet 2](https://jentery.github.io/mdia200v5/worksheet2.html)**: 20% of your final grade (due by Thursday, October 16th at 10am). 
 3. **[Worksheet 3](https://jentery.github.io/mdia200v5/worksheet3.html)**: 20% of your final grade (due by Thursday, November 6th at 10am).
 4. **[Worksheet 4](https://jentery.github.io/mdia200v5/worksheet4.html)**: 15% of your final grade (due by Monday, December 1st at 10am). 
-5. **[Portfolio](https://jentery.github.io/mdia200v5/portfolio.html)**: 25% of your final grade (due by -- at 10am). 
+5. **[Portfolio](https://jentery.github.io/mdia200v5/portfolio.html)**: 25% of your final grade (due by Thursday, December 11th at 10am). 
 
 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
@@ -132,7 +132,7 @@ After class, please read:
 
 *Please email me if you're on the waitlist for this course and have questions or concerns.* 
 
-## MODULE 1: COMMUNICATION (FOUR SESSIONS)
+## MODULE 1: Communication (four sessions)
 
 This module begins on Monday, September 8th and ends on Thursday, September 18th.  
 
@@ -167,9 +167,9 @@ Before class, please read the following handouts:
 
 Before class, please read the "Miscommunication" handout.
 
-*Today is the last session covered by Worksheet 1, which is due by Thursday, September 25th at 10am. 
+*Today is the last session covered by Worksheet 1, which is due by Thursday, September 25th at 10am.* 
 
-## MODULE 2: MEDIA (SIX SESSIONS)
+## MODULE 2: Media (six sessions)
 
 This module begins on Monday, September 22nd and ends on Thursday, October 9th.  
 
@@ -220,7 +220,7 @@ Before class, please read the following handouts:
 
 It's Thanksgiving Day (University closed). 
 
-## MODULE 3: APPROACHES (11 SESSIONS) 
+## MODULE 3: Approaches (eleven sessions) 
 
 This module begins on Thursday, October 16th and ends on Thursday, November 27th. 
 
@@ -276,9 +276,9 @@ Representation will address power, identity, stereotypes, and intersectionality.
 
 *Worksheet 3 is due today by 10am.* 
 
-## M. Nov. 10: No Class 
+## M Nov. 10: No Class 
 
-It's reading break Monday, November 10 through Wednesday, November 12. 
+It's reading break Monday, November 10th through Wednesday, November 12th. 
 
 ## Th Nov. 13: Conferences 
 
@@ -288,7 +288,7 @@ I will hold student conferences. Please contact me to schedule an appointment.
 
 Before class, please read the "Narrative" handout. 
 
-Narrative will address genre, story, plot, and emergence. 
+Narrative will address genre, story, plot, linearity, non-linearity, and emergence. 
 
 *Please email me if you have any questions or concerns about the Portfolio.* 
 
@@ -306,11 +306,11 @@ Before class, please read the "Preservation" handout.
 
 Preservation will address collection, migration, and emulation.
 
-*Today is the last session covered by Worksheet 4, which is due by Monday, December 1st at 10am. 
+*Today is the last session covered by Worksheet 4, which is due by Monday, December 1st at 10am.* 
 
 ## Th Nov. 27: Before You Make a Thing
 
-Before class, please read the "Before you Make a Thing" handout. 
+Before class, please read the "Before You Make a Thing" handout. 
 
 We'll review the third module and discuss its application in your everyday life. 
 
@@ -394,7 +394,7 @@ I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/
 
 All assignments should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. 
 
-I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. Note that Maya and I will mark assignments in this course. 
+I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. Note that both Maya and I will mark assignments in this course. 
 
 Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete course experience surveys at the end of the term. 
 
@@ -402,7 +402,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. Weekends and holidays do not count as business days. 
 
-I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio after Wednesday, December 17th at 10am. 
+I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio after  Tuesday, December 16th at 10am. 
 
 Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
 
@@ -448,7 +448,7 @@ UVic is committed to promoting a safe, respectful and supportive learning, livin
 
 ### Non-Academic Student Conduct 
 
-UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/services/studentlife/student-conduct/non-academic-misconduct/index.php?utm_medium=redirect&utm_source=namc&utm_campaign=redirect-usage) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy.
+UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/universitysecretary/assets/docs/policies/AC1300.pdf) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy.
 
 ### Academic Integrity  
 
@@ -466,7 +466,7 @@ UVic encourages innovative teaching practices and supports instructors who may l
 
 ### Basic Needs 
 
-I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any supports to succeed. I'll do my best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to class meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any supports to succeed. I'll do my best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to class meetings. Babies who are nursing are welcome, as I do not want you to choose between feeding your child and continuing your education. 
 
 ***
 
