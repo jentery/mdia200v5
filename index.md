@@ -6,7 +6,7 @@ Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](m
 Office hours: Th, 12-1pm, in CLE D331    
 Teaching assistant (marking): Maya Wei Yan Linsley (she | any)
 
-View this document in [PDF](mdia200Fall2025Syllabus.pdf) (coming soon). 
+View this document in [PDF](mdia200Fall2025Syllabus.pdf). 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
