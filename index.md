@@ -47,13 +47,13 @@ I designed this course for you to:
 4. Respond directly to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
 5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
 
-I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content creation. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach professional communication or journalism. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/) and [Professional Writing](https://www.uvic.ca/finearts/writing/undergraduate/programs/pro-writing/index.php), respectively. 
+I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to media practice. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach professional communication or journalism. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/) and [Professional Writing](https://www.uvic.ca/finearts/writing/undergraduate/programs/pro-writing/index.php), respectively. 
 
 # About Us 
 
 My name is Jentery Sayers (he/him). I skip a syllable and say it in two: "JEN-tree." You can call me Jentery, Doctor Sayers, or Professor Sayers. 
 
-I spend 13.28% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct our Media Studies program. I like to play TTRPGs, drums, guitar, basketball, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
+I spend 13.28% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct the Media Studies program. I like to play TTRPGs, drums, guitar, basketball, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. My office hours are Thursday, 12-1pm, in CLE D331. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays.
 
@@ -67,7 +67,7 @@ Although I will not be attending MDIA 200 this term, I will be marking some of y
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
+*Handouts*: I produce my own handouts for this course and will circulate them as PDFs in Brightspace. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a Media Studies textbook. 
 
 *Slide Decks*: I will create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
@@ -97,13 +97,13 @@ I am asking you to complete five assignments this term.
 4. **[Worksheet 4](https://jentery.github.io/mdia200v5/worksheet4.html)**: 15% of your final grade (due by Monday, December 1st at 10am). 
 5. **[Portfolio](https://jentery.github.io/mdia200v5/portfolio.html)**: 25% of your final grade (due by Thursday, December 11th at 10am). 
 
-*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
+*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than six prompts (from which you'll choose four), and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
 *Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
 
 *Brightspace*: Please use Brightspace to submit all your work this term. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email.
 
-*Feedback*: We will provide brief and focused feedback on worksheets according to grading rubrics. Please email me (Jentery, not Maya) or schedule an appointment (F2F or Zoom) to discuss my feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+*Feedback*: Maya and I will provide brief and focused feedback on worksheets according to grading rubrics. Please email me (Jentery, not Maya) or schedule an appointment (F2F or Zoom) to discuss my feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
 # Workload
 
@@ -119,7 +119,9 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 98.67% ce
 
 *All materials (including the handouts) for this course are available via Brightspace. Please study them before the date they're assigned.* This way, we can make the most of our time together in class. 
 
-All meetings are scheduled to occur in person (face-to-face). If you miss a class session or you simply want a review, then I recommend checking Brightspace to view the slide deck for that session and touching base with a peer to see if they're willing to share their notes. 
+All meetings are scheduled to occur in person (face-to-face). I will assume you are attending each class meeting. If you are unable to attend, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. My slides for each session will be available in Brightspace. 
+
+You are welcome to record audio of the following sessions for private access, study, and note-taking.
 
 ## Th Sept. 4: Hello! 
 
@@ -226,7 +228,7 @@ This module begins on Thursday, October 16th and ends on Thursday, November 27th
 
 ## Th Oct. 16: Media Effects 
 
-Before class, please read the "Effects" handout. 
+Before class, please read the "Media Effects" handout. 
 
 Effects will address affect, cognition, and behaviour. 
 
@@ -234,7 +236,7 @@ Effects will address affect, cognition, and behaviour.
 
 ## M Oct. 20: Ownership Effects 
 
-Before class, please read the "Ownership" handout. 
+Before class, please read the "Ownership Effects" handout. 
 
 Ownership will address monopolies, regulation, and public, commercial, and independent media. 
 
@@ -248,7 +250,7 @@ Culture will address habits, values, and community.
 
 ## M Oct. 27: Media Aesthetics 
 
-Before class, please read the "Aesthetics" handout. 
+Before class, please read the "Media Aesthetics" handout. 
 
 Aesthetics will address composition, design, and experience. 
 
@@ -256,7 +258,7 @@ Aesthetics will address composition, design, and experience.
 
 ## Th Oct. 30: Meaning and Semiotics
 
-Before class, please read the "Meaning" handout. 
+Before class, please read the "Meaning and Semiotics" handout. 
 
 Meaning will address semiotics, discourse, and encoding/decoding. 
 
@@ -264,7 +266,7 @@ Meaning will address semiotics, discourse, and encoding/decoding.
 
 ## M Nov. 3: Rhetoric and Persuasion 
 
-Before class, please read the "Persuasion" handout.  
+Before class, please read the "Rhetoric and Persuasion" handout.  
 
 Persuasion will address rhetoric, propaganda, and disinformation. 
 
@@ -364,10 +366,10 @@ The [ombuds office](https://uvicombudsperson.ca/) is an independent, impartial, 
 
 ### Student Groups 
 
-The following student groups may be relevant to your life as a student here at UVic: 
+The following advocacy groups may be relevant to your life as a student here at UVic: 
 
 * [The Native Students Union](https://www.uvicnsu.ca/),
-* [The Students of Colour Collective](https://soccollective.com/), 
+* [The Students of Colour Collective](https://www.instagram.com/soccollective/?hl=en), 
 * [The Society for Students with a Disability (SSD)](https://uvicssd.ca/), 
 * [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/), and 
 * [UVSS Pride Collective](https://pridecollective.ca/).
@@ -380,7 +382,7 @@ Here are the policies for this course alongside several UVic policies. Please le
 
 This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs). In fact, it's required for the certificate. 
 
-### Communications and Office Hours
+### Office Hours and Contacting Me
 
 The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Thursday, 12-1pm, in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
 
@@ -390,7 +392,7 @@ I respond to email between 9am and 5pm, Monday through Friday, excluding holiday
 
 Two of the four worksheets as well as the portfolio are required to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
-I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
+Maya and I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
 
 All assignments should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. 
 
