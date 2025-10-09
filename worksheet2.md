@@ -89,4 +89,4 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 ## When to Submit It
 
-A response to Worksheet 2 is due by 10am on Thursday, October 16th, but there is a grace period. I will deduct five points for every business day I receive Worksheet 2 after 10am on Friday, October 17th. I will close the submission portal for Worksheet 2 at 10am on Thursday, October 30th, and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
+A response to Worksheet 2 is due by 10am on Monday, October 20th. This is an extension (from the date originally posted here), and thus there is no grace period. I will close the submission portal for Worksheet 2 at 10am on Thursday, October 30th, and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
