@@ -16,7 +16,7 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 ## Download the Worksheet 
 
-Please [download the worksheet](mdia200v5Worksheet3.docx) (DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
+Please [download the worksheet](mdia200v5Worksheet3.docx) (coming soon in DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
 ## Format
 
