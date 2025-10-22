@@ -56,7 +56,7 @@ Now use 350 words, including terminology from the ["Meaning and Semiotics"](http
 
 A true clue helps players solve a puzzle. A red herring misleads or distracts them from solving the puzzle. You are welcome to add any other elements you wish as long as you include all the elements above. 
 
-Be sure to attach all the media for your clues to your response. That way, we can access them and try your puzzle ourselves!
+Be sure to attach all the media for your clues to your response. That way, we can access them and try the puzzle ourselves!
 
 ## Assessment 
 
