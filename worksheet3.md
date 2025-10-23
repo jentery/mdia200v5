@@ -16,7 +16,7 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 ## Download the Worksheet 
 
-Please [download the worksheet](mdia200v5Worksheet3.docx) (coming soon in DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
+Please [download the worksheet](mdia200v5Worksheet3.docx) (DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
 ## Format
 
@@ -38,7 +38,7 @@ Don't forget to include a URL for each of your three examples.
 
 Don't forget to attach or embed your example of how people interact with the tool and the sort of content it produces. 
 
-**Prompt 3**. Select an app you're familiar with and then use 350 words, including terminology from the ["Culture"](https://bright.uvic.ca/d2l/le/lessons/423805/topics/3547711) handout and "Communication" and "Media" modules, to: 1) identify a specific community or subculture who is active on the app, 2) explain how the app's design addresses, supports, and appeals to that community or subculture, 3) describe the habits of belief, perception, and performance you associate with the group's activity on the app, and 4) share what you learned about media habits and cultures from this exercise. Feel free to include videos or screen caps of the app to support your writing but do not share any private posts or content.
+**Prompt 3**. Select an app you're familiar with and then use 350 words, including terminology from the ["Culture"](https://bright.uvic.ca/d2l/le/lessons/423805/topics/3547711) handout and "Communication" and "Media" modules, to: 1) identify a specific community or subculture who is active on the app, 2) explain how the app's design addresses, supports, and appeals to that community or subculture, 3) describe the habits of belief, perception, and performance you associate with the group's activity on the app, and 4) share what you learned about media habits and cultures from this exercise. Feel free to include videos or screen caps of the app to support your writing, but do not share any private posts or content.
 
 You can be a member of the community or subculture you're examining; however, membership is not an expectation of this prompt. Feel free to focus on a website instead of an app if you wish.
 
@@ -54,7 +54,7 @@ Don't forget to attach media files to demonstrate the promise of your proposed r
 
 Now use 350 words, including terminology from the ["Meaning and Semiotics"](https://bright.uvic.ca/d2l/le/lessons/423805/topics/3554178) handout and "Media" and "Communication" modules, to: 1) describe the puzzle, the scene of the mystery, and your clues, 2) identify your icon, index, and symbol, 3) share the solution to your puzzle and the mystery, 4) explain what you anticipate players would do to decode the clues and solve the mystery, and 5) share what you learned about media and semiotics from this exercise. 
 
-A true clue helps players solve a puzzle. A red herring misleads or distracts them from solving the puzzle. You are welcome to add any other elements you wish as long as you include all the elements above. 
+A true clue helps players solve a puzzle. A red herring misleads or distracts them from solving the puzzle. You are welcome to add any other elements you wish, as long as you include all the elements above. 
 
 Be sure to attach all the media for your clues to your response. That way, we can access them and try the puzzle ourselves!
 
@@ -99,4 +99,4 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 ## When to Submit It
 
-A response to Worksheet 3 is due by 10am on Thursday, November 6th, but there is a grace period. If you submit your response by Friday, November 7th at 10am, there will be no penalty, and we will provide our usual written feedback in a letter to you. If you submit your response after 10am on the 7th but before 10am on Thursday, November 13th, there will be no penalty, either; however, we will provide only number grades (no written feedback) for your responses alongside your overall mark for the worksheet. We will deduct five points for every business day we receive Worksheet 3 after 10am on Thursday, November 13th. We will close the submission portal for Worksheet 3 at 10am on Thursday, November 20th, and cannot accept any submissions after the portal is closed. We will not accept any submissions by email.
+A response to Worksheet 3 is due by 10am on Thursday, November 6th, but there is a grace period. If you submit your response by Friday, November 7th at 10am, there will be no penalty, and we will provide our usual written feedback in a letter to you. If you submit your response after 10am on the 7th but before 10am on Thursday, November 13th, there will be no penalty either; however, we will provide only number grades (no written feedback) for your responses alongside your overall mark for the worksheet. We will deduct five points for every business day we receive Worksheet 3 after 10am on Thursday, November 13th. We will close the submission portal for Worksheet 3 at 10am on Thursday, November 20th, and cannot accept any submissions after the portal is closed. We will not accept any submissions by email.
